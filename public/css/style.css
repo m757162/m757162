@@ -1,0 +1,25 @@
+.aboutCon{
+    margin-top:150px;
+    background-color: darkslategray;
+    
+}
+.contactCon{
+    background-color: gray;
+    border-radius: 5px;
+}
+.homeCon{
+    background-image: url("../uploads/home.PNG");
+    width: 100%;
+    height: 100%;
+    margin-top: 40px;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-bottom: 2000px;
+}
+.text{
+    margin-top: 250px;
+    color:rgb(236, 192, 45);
+}
+.homerow{
+    height: 500px;
+}
